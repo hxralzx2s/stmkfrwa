@@ -1,0 +1,53 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+  	 {
+      "identifier": "14",
+      "name": "Christmas",
+      "publisher": "Robinhood Pandey",
+      "count": 30
+      },{
+      "identifier": "13",
+      "name": "New Year",
+      "publisher": "Robinhood Pandey",
+      "count": 15
+      },{
+      "identifier": "11",
+      "name": "Emoji",
+      "publisher": "Robinhood Pandey",
+      "count": 30
+      },{
+      "identifier": "1",
+      "name": "Happy",
+      "publisher": "Robinhood Pandey",
+      "count": 18
+      },{
+      "identifier": "2",
+      "name": "Halloween",
+      "publisher": "Robinhood Pandey",
+      "count": 30
+      },{
+      "identifier": "4",
+      "name": "Love",
+      "publisher": "Robinhood Pandey",
+      "count": 30
+      },{
+      "identifier": "5",
+      "name": "Birthday",
+      "publisher": "Robinhood Pandey",
+      "count": 29
+      },{
+      "identifier": "8",
+      "name": "Hindi",
+      "publisher": "Robinhood Pandey",
+      "count": 30
+      },{
+      "identifier": "9",
+      "name": "Hindi Dialogue",
+      "publisher": "Robinhood Pandey",
+      "count": 19
+      }
+    ]
+}
+  
